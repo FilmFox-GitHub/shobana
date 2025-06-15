@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """ Hᴇʟʟᴏ {}.
+    START_TXT = """ DQ {}.
 𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌.
 + 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 + 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇."""
     HELP_TXT = """
@@ -7,16 +7,16 @@ class script(object):
 Currently using free server so please Dont kill Me...
 """
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://github.com/mntg4u> MN - TG</a>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/foxxytg> FOXxY TG</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Shobana Filter Bot  is a open source project. 
-- Source - <ahref=https://github.com/mn-bots/ShobanaFilterBot>Click Here to get source code</a>
+- DQ Filter Bot  is not an open source project. 
+- Source - <ahref=https://nokkiirunnoippokittum.com>Click Here to get source code</a>
 
 <b>DEVS:</b>
--<a href=https://github.com/mntg4u> MN - TG</a>"""
+-<a href=https://t.me/foxxytg> FOXxY TG</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and shobana will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -39,7 +39,7 @@ Currently using free server so please Dont kill Me...
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://github.com/mn-bots/ShobanaFilterBot)</code>
+<code>[Button Text](buttonurl:https://nokkiirunnoippokittum.com)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
