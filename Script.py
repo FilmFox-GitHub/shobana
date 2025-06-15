@@ -18,7 +18,7 @@ Currently using free server so please Dont kill Me...
 <b>DEVS:</b>
 -<a href=https://t.me/foxxytg> FOXxY TG</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
-- Filter is the feature were users can set automated replies for a particular keyword and shobana will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and dq autofilter bot will respond whenever a keyword is found the message
 <b>NOTE:</b>
 1. This Bot should have admin privillage.
 2. only admins can add filters in a chat.
